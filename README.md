@@ -42,3 +42,36 @@ Currently exploring **Deep Learning**, **Generative AI**, **React.js**, and **Cl
 - 📡 Internet of Things (IoT)
 - 🧬 Generative AI (LLMs, Prompt Engineering, Gemini)
 - ☁️ Cloud-Integrated Applications (GCP, Firebase)
+
+## 🚀 Featured Project
+
+- [🔍 AutoInsight](https://github.com/your-username/autoinsight)  
+  A smart ML-powered app that performs data analysis, generates AI summaries, and predicts outcomes from uploaded datasets.  
+  **Tech:** Streamlit, Pandas, Scikit-learn, OpenAI API, Matplotlib
+
+## 🏆 Achievements
+
+- 👩‍💼 Team Lead – Panache Digilife IoT Internship  
+  Led a 4-member team in building a complete AQI monitoring system using IoT, Machine Learning, and Cloud technologies. Served as the key coordinator between the industry mentor, college guide, and team members.
+  
+- 🥈 2nd Prize – TechTube Presentation Competition (AI&DS Dept.)  
+  Secured 2nd place for presenting innovative use cases and future applications of AI in industry.
+
+- 🏅 Top 5 Finalist – World Wide Technology (WWT) Hackathon  
+  Reached the final round among top teams with a real-world AI solution proposal under time-bound constraints.
+
+  
+## 📜 Certifications
+
+- 🎓 **Deep Learning A-Z™** – Udemy *(in progress)*
+- 🏢 **Deloitte Virtual Experience Program** – Forage (Data Analytics track)
+- ☁️ **Google Cloud Skills Boost** – Core Cloud & Generative AI tracks
+- ☁️ **AWS Cloud Developing Program** – AWS Academy (Cloud Application Development)
+
+  ## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/your-github-id"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
